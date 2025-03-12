@@ -1,5 +1,5 @@
 {
-  "name": "svelte-native-preprocessor",
+  "name": "@caracal7/svelte-native-preprocessor",
   "version": "1.0.1",
   "author": "David Pershouse",
   "license": "MIT",
